@@ -1,7 +1,7 @@
 function main() {
     const scene = new THREE.Scene();
     scene.background = new THREE.Color(0x000000);
-    const canvas = document.querySelector('#c');
+    const canvas = document.querySelector('#threeOutput');
     const renderer = new THREE.WebGLRenderer({canvas});
 
     const fov = 45;
