@@ -1,2 +1,2 @@
-# three.js
-My experiments with three.js
+# parametric cubes
+simple geometry with three.js
