@@ -1,2 +1,2 @@
 # parametric cubes
-simple geometry mesh with three.js
+simple geometry mesh/ three.js
