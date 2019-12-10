@@ -1,4 +1,4 @@
-import * as THREE from 'libs/three.module.js';
+import * as THREE from '/libs/three.module.js';
 import { OrbitControls } from '/libs/OrbitControls_m.js';
 import { Water } from '/Water.js';
 import { Sky } from '/Sky.js';
